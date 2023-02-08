@@ -24,7 +24,6 @@ namespace Tic_Toe
         private int counter = 1;
         private int canPlay = 0;
         
-
         public MainWindow()
         {
             InitializeComponent();
@@ -128,13 +127,16 @@ namespace Tic_Toe
                     canPlay = 3;
                     Start_btn.Content = "Start";
                 }
-                Bot_move();
-                winner = CheckWin();
-                TextBlock.Text = winner;
-                if (winner != "")
+                else
                 {
-                    canPlay = 3;
-                    Start_btn.Content = "Start";
+                    Bot_move();
+                    winner = CheckWin();
+                    TextBlock.Text = winner;
+                    if (winner != "")
+                    {
+                        canPlay = 3;
+                        Start_btn.Content = "Start";
+                    }
                 }
             }
             else if (canPlay == 0)
