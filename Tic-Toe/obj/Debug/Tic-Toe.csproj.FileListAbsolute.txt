@@ -1,0 +1,16 @@
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Tic-Toe\Tic-Toe\bin\Debug\Tic-Toe.exe.config
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Tic-Toe\Tic-Toe\bin\Debug\Tic-Toe.exe
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Tic-Toe\Tic-Toe\bin\Debug\Tic-Toe.pdb
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Tic-Toe\Tic-Toe\obj\Debug\Tic-Toe.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Tic-Toe\Tic-Toe\obj\Debug\Tic-Toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Tic-Toe\Tic-Toe\obj\Debug\MainWindow.g.cs
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Tic-Toe\Tic-Toe\obj\Debug\App.g.cs
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Tic-Toe\Tic-Toe\obj\Debug\Tic-Toe_MarkupCompile.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Tic-Toe\Tic-Toe\obj\Debug\Tic-Toe_MarkupCompile.lref
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Tic-Toe\Tic-Toe\obj\Debug\MainWindow.baml
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Tic-Toe\Tic-Toe\obj\Debug\Tic-Toe.g.resources
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Tic-Toe\Tic-Toe\obj\Debug\Tic_Toe.Properties.Resources.resources
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Tic-Toe\Tic-Toe\obj\Debug\Tic-Toe.csproj.GenerateResource.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Tic-Toe\Tic-Toe\obj\Debug\Tic-Toe.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Tic-Toe\Tic-Toe\obj\Debug\Tic-Toe.exe
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Tic-Toe\Tic-Toe\obj\Debug\Tic-Toe.pdb
